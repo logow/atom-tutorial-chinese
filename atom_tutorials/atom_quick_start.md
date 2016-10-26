@@ -86,10 +86,12 @@ Atom支持所有标准Windows光标移动键组合。使用方向键上下左右
 移动到指定行或列，使用 `Ctrl+G` 弹出一个输入框输入行号，使用 *row:column* 语法跳到指定字符。
 ![定位字符](http://flight-manual.atom.io/using-atom/images/goto.png)
 
+
 ### 按标志导航
 
 在**Symbols**视图中，按 `Ctrl+R` 可以跳到一个标志例如方法定义。它会打开一个标志列表（当前文件），按 `Ctrl+T` 可以模糊匹配。
 ![标志导航](http://flight-manual.atom.io/using-atom/images/symbol.png)
+
 
 ### 书签
 
